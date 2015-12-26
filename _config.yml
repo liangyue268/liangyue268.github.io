@@ -1,14 +1,15 @@
 # Site settings
-title: Yue Liang's blog
+title: Yue Liang
 header-img: img/home-bg.jpg
 email: liangyue268@gmail.com
 description: "A Yue Liang's blog"
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://www.liangyue268.com"
 twitter_username: liangyue268
 github_username:  liangyue268
 facebook_username:  lianngyue268
 linkedin_usedname:  in/yliang9
+favicon: img/favicon.png
 
 # Build settings
 markdown: kramdown
