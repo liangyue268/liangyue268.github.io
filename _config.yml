@@ -9,7 +9,7 @@ twitter_username: liangyue268
 github_username:  liangyue268
 facebook_username:  lianngyue268
 linkedin_usedname:  in/yliang9
-favicon: img/favicon.png
+favicon: /img/favicon.ico
 
 # Build settings
 markdown: kramdown
