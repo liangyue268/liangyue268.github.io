@@ -12,8 +12,6 @@ This my First Blog
 
 <h2 class="section-heading">Getting Started</h2>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/img/head portrait.jpg" alt="head portrait">
-</a>
+![img](/img/head portrait.jpg)
 
 <span class="caption text-muted">A handsome man</span>
