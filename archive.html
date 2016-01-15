@@ -5,7 +5,7 @@ description: "Memory shouldn't be forgotten"
 header-img: "img/orange.jpg"
 ---
 
-
+<div id="archives">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
@@ -13,7 +13,7 @@ header-img: "img/orange.jpg"
   	</ul>
   	{% endif %}
     {% assign year = y %}
-    <h2>{{ y }}</h2>
+    <h2 id="{{ y }}">{{ y }}</h2>
     <ul>
   {% endif %}
 	  <li>
@@ -22,3 +22,4 @@ header-img: "img/orange.jpg"
 	  </li>
 {% endfor %}
 	</ul>
+</div>
