@@ -1,0 +1,24 @@
+---
+layout: page
+title: "Archive"
+description: "Memory shouldn't be forgotten"
+header-img: "img/orange.jpg"
+---
+
+
+{% for post in site.posts %}
+  {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
+  {% if year != y %}
+  	{% if year != null %}
+  	</ul>
+  	{% endif %}
+    {% assign year = y %}
+    <h2>{{ y }}</h2>
+    <ul>
+  {% endif %}
+	  <li>
+	    <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+	    <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+	  </li>
+{% endfor %}
+	</ul>
