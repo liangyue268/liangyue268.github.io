@@ -12,6 +12,7 @@ tags: [website, milestone]
 </p>
 
 <h2 class="section-heading">Update: </h2>
-<p>
-	Added archive which allows you to look through all my articles in a timeline.
-</p>
+<ul>
+	<li>Added archive which allows you to look through all my articles in a timeline.</li>
+	<li>Added comments section. Be the first to comment!</li>
+</ul>
