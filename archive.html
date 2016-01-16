@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Archive"
-description: "Memory shouldn't be forgotten"
+description: "Memories shouldn't be forgotten"
 header-img: "img/orange.jpg"
 ---
 
-<div id="archives">
+<div class="archives">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
