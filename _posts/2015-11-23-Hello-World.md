@@ -1,16 +1,14 @@
 ---
 layout:     post
-title:      "My First Post"
+title:      "My first post"
 subtitle:   "Hello from Yue Liang"
 date:       2015-11-23 12:00:00
 author:     "Yue Liang"
-tags: [bio, start]
+tags: [website, milestone]
 ---
 
-This my First Blog
+<h2 class="section-heading">This my First Blog</h2>
 
-<h2 class="section-heading">Getting Started</h2>
-
-![img](/img/head portrait.jpg)
-
-<span class="caption text-muted">A handsome man</span>
+<p>
+	Today, I finished the basic development of my blog. Hello World!
+</p>

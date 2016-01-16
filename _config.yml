@@ -1,7 +1,6 @@
 # Site settings
-title: Yue Liang
+title: "Fantastic World"
 header-img: img/blue.jpg
-email: liangyue268@gmail.com
 description: "A Yue Liang's blog"
 baseurl: ""
 url: "http://www.liangyue268.com"
@@ -11,6 +10,11 @@ facebook_username:  liangyue268
 linkedin_usedname:  in/yliang9
 favicon: /img/favicon.ico
 gems: [jekyll-paginate]
+
+# About/contact
+owner: 
+  name: "Yue Liang"
+  email: liangyue268@gmail.com
 
 # Build settings
 markdown: kramdown
