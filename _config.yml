@@ -10,6 +10,7 @@ github_username:  liangyue268
 facebook_username:  liangyue268
 linkedin_usedname:  in/yliang9
 favicon: /img/favicon.ico
+gems: [jekyll-paginate]
 
 # Build settings
 markdown: kramdown
