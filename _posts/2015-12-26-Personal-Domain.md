@@ -13,6 +13,8 @@ tags: [website, milestone]
 
 <h2 class="section-heading">Update: </h2>
 <ul>
-	<li>Added archive which allows you to look through all my articles in a timeline.</li>
-	<li>Added comments section. Be the first to comment!</li>
+	<li>2015-12-29: Added comments section. Be the first to comment!</li>
+	<li>2016-01-16: Added archive which allows you to look through all my articles in a timeline.</li>
+	<li>2016-01-18: Added back to top button.</li>
+	<li>2016-01-18: Added code highlight.</li>
 </ul>
