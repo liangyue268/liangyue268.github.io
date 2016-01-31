@@ -3,7 +3,7 @@ layout:     post
 title:      "Getting my personal domain"
 date:       2015-12-26 12:00:00
 author:     "Yue Liang"
-tags: [website, milestone]
+tags: [website]
 ---
 
 <p>

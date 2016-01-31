@@ -4,7 +4,7 @@ title:      "My first post"
 subtitle:   "Hello from Yue Liang"
 date:       2015-11-23 12:00:00
 author:     "Yue Liang"
-tags: [website, milestone]
+tags: [website]
 ---
 
 <h2 class="section-heading">This my First Blog</h2>
